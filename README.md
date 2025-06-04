@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-### 🐍 Snake Contributions Animation
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagar-katoch/sagar-katoch/output/snake.svg" alt="Snake animation" />
