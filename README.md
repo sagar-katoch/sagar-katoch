@@ -41,7 +41,6 @@
   <a href="https://www.twitch.tv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord: sagarkatoch5060&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Username" />
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
@@ -54,7 +53,7 @@
 
 <br clear="both">
 
-### 🐍 Snake Contributions Animation
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagar-katoch/sagar-katoch/output/snake.svg" alt="Snake animation" />
